@@ -10,3 +10,4 @@ app.listen(config.port, function () {
   console.log('Fabrikam web server listening on port ' + config.port);
 });
 
+node app.js
