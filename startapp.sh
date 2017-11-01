@@ -1,2 +1,2 @@
-node app.js
+./app.js
 exit 0
